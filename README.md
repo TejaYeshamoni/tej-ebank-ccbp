@@ -1,5 +1,13 @@
 The goal of this coding exam is to quickly get you off the ground with **Authentication**.
 
+- User credentials
+
+  ```text
+   User ID: 142420
+   PIN: 231225
+
+  ```
+
 ### Refer to the image below:
 
 <div style="text-align: center;">
@@ -120,13 +128,7 @@ Returns a response based on the credentials provided
 - Login Route should consist of `/ebank/login` in the URL path
 - No need to use the `BrowserRouter` in `App.js` as we have already included in `index.js`
 
-- User credentials
 
-  ```text
-   User ID: 142420
-   PIN: 231225
-
-  ```
 
 </details>
 
